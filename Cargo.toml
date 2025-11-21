@@ -11,4 +11,8 @@ path="src/1.rs"
 name="9"
 path="src/9.rs"
 
+[[bin]]
+name="13"
+path="src/13.rs"
+
 [dependencies]
