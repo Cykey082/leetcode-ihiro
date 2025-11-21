@@ -16,6 +16,10 @@ name="13"
 path="src/13.rs"
 
 [[bin]]
+name="67"
+path="src/67.rs"
+
+[[bin]]
 name="69"
 path="src/69.rs"
 
