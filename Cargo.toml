@@ -31,4 +31,12 @@ path="src/3190.rs"
 name="14"
 path="src/14.rs"
 
+[[bin]]
+name="20"
+path="src/20.rs"
+
+[[bin]]
+name="26"
+path="src/26.rs"
+
 [dependencies]
