@@ -39,4 +39,8 @@ path="src/20.rs"
 name="26"
 path="src/26.rs"
 
+[[bin]]
+name="1018"
+path="src/1018.rs"
+
 [dependencies]
